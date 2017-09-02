@@ -2,13 +2,28 @@
 
 Kit de départ préconfiguré incluant [VueJS](https://github.com/vuejs/vue), [Babel](https://babeljs.io/), [Webpack](https://webpack.js.org/) et [ESLint](https://eslint.org/) pour le cours GLO-3102.
 
+## Prérequis
+- Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Linux)
+- [Node.js](https://nodejs.org/en/) (version LTS recommandé)
 
-## Build Setup
+Vérifier que Node est installé avec la commande:
+```bash
+node -v
+```
+Vérifier que Node est installé avec la commande:
+```bash
+npm -v
+```
 
-``` bash
+## Installation
+
+```bash
 # install dependencies
 npm install
+```
 
+## Developpement
+```bash
 # serve with hot reload at localhost:8080
 npm start
 ```
