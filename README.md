@@ -1,6 +1,6 @@
 # vue-starter
 
-> A Vue.js project
+Kit de départ préconfiguré incluant VueJS, Babel, Webpack et ESLint pour le cours GLO-3102.
 
 ## Build Setup
 
@@ -9,13 +9,7 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+npm start
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Ce projet à été généré avec [vue-cli](https://github.com/vuejs/vue-cli) en suivant le template webpack. Voir le [guide](http://vuejs-templates.github.io/webpack/) et la [documentation de vue-loader](http://vuejs.github.io/vue-loader) pour plus de détails.
