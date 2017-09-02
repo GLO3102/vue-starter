@@ -21,7 +21,7 @@ Libre à vous de modifier la structure des fichiers.
 
 
 ## Notes
-
+### Vue
 Ce projet à été généré avec [vue-cli](https://github.com/vuejs/vue-cli) en suivant le template webpack. Voir le [guide](http://vuejs-templates.github.io/webpack/) et la [documentation de vue-loader](http://vuejs.github.io/vue-loader) pour plus de détails.
 
 ### ESLint
