@@ -14,11 +14,5 @@
     </nav>
 </template>
 
-<script>
-export default {
-  name: 'nav-menu'
-};
-</script>
-
 <style>
 </style>

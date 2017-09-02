@@ -4,3 +4,6 @@
         <div>GLO-3102 Home</div>
     </div>
 </template>
+
+<style>
+</style>

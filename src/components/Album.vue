@@ -4,3 +4,6 @@
         <div>GLO-3102 Album page</div>
     </div>
 </template>
+
+<style>
+</style>
