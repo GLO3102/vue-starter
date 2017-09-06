@@ -8,7 +8,7 @@
                 <router-link to="/album">Album</router-link>
             </li>
             <li>
-                <router-link to="/artist">Album</router-link>
+                <router-link to="/artist">Artist</router-link>
             </li>
         </ul>
     </nav>
