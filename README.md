@@ -4,7 +4,7 @@ Kit de départ préconfiguré incluant [VueJS](https://github.com/vuejs/vue), [B
 
 ## Prérequis
 - Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Linux)
-- [Node.js](https://nodejs.org/en/) (version LTS recommandé)
+- [Node.js](https://nodejs.org/en/) (version LTS recommandée)
 
 Vérifier que Node est installé avec la commande:
 ```bash
@@ -22,7 +22,7 @@ npm -v
 npm install
 ```
 
-## Dévelopement
+## Développement
 ```bash
 # serve with hot reload at localhost:8080
 npm start
