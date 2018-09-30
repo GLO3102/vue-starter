@@ -29,7 +29,7 @@ npm start
 ```
 
 ## Livrable 1
-Faites vos modifications aux fichiers `Album.vue`, `Artists.vue`, `Home.vue` et `Navigation.vue`. Ajoutez votre HTML dans la balise `<template>` et votre CSS dans la balise `<style>` de chacun des components.
+Faites vos modifications aux fichiers `Album.vue`, `Artist.vue`, `Home.vue` et `Navigation.vue`. Ajoutez votre HTML dans la balise `<template>` et votre CSS dans la balise `<style>` de chacun des components.
 
 ## Livrable 2-3
 Libre à vous de modifier la structure des fichiers.
