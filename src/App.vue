@@ -6,15 +6,13 @@
 </template>
 
 <script>
-import Navigation from '@/components/Navigation';
-
+import Navigation from "@/components/Navigation";
 export default {
-  name: 'app',
+  name: "app",
   components: {
-    'nav-menu': Navigation
+    "nav-menu": Navigation
   }
 };
 </script>
 
-<style>
-</style>
+<style></style>
