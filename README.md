@@ -1,6 +1,6 @@
 # vue-starter
 
-Kit de départ préconfiguré utilisant (vue-cli)[https://cli.vuejs.org/], (ESLint)[https://eslint.org/] avec (Prettier)[https://prettier.io/] et (Jest)[https://jestjs.io/].
+Kit de départ préconfiguré utilisant [vue-cli](https://cli.vuejs.org/), [ESLint](https://eslint.org/) avec [Prettier](https://prettier.io/) et [Jest](https://jestjs.io/).
 
 ## Prérequis
 - Git [Windows](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Windows), [Mac](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Mac), [Linux](http://www.git-scm.com/book/en/Getting-Started-Installing-Git#Installing-on-Linux)
