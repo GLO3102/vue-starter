@@ -5,10 +5,10 @@
         <router-link to="/">Home</router-link>
       </li>
       <li>
-        <router-link to="/album">Album</router-link>
+        <router-link to="/restaurant">Restaurant</router-link>
       </li>
       <li>
-        <router-link to="/artist">Artist</router-link>
+        <router-link to="/user">User Profile</router-link>
       </li>
     </ul>
   </nav>
