@@ -10,8 +10,8 @@ import Navigation from "@/components/Navigation";
 export default {
   name: "app",
   components: {
-    "nav-menu": Navigation
-  }
+    "nav-menu": Navigation,
+  },
 };
 </script>
 
