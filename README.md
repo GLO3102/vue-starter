@@ -1,6 +1,6 @@
 # vue-starter
 
-Kit de départ préconfiguré utilisant [vue-cli](https://cli.vuejs.org/), [ESLint](https://eslint.org/) avec [Prettier](https://prettier.io/) et [Jest](https://jestjs.io/).
+Kit de départ préconfiguré utilisant [create-vue](https://github.com/vuejs/create-vue/), [ESLint](https://eslint.org/) avec [Prettier](https://prettier.io/) et [Vitest](https://vitest.dev/).
 
 ## Prérequis
 
@@ -22,15 +22,13 @@ npm -v
 ## Installation
 
 ```bash
-# install dependencies
 npm install
 ```
 
 ## Développement
 
 ```bash
-# serve with hot reload at localhost:8080
-npm run serve
+npm run dev
 ```
 
 ## Livrable 1
@@ -45,4 +43,4 @@ Libre à vous de modifier la structure des fichiers.
 
 ### ESLint
 
-ESLint est configuré afin de respecter un certain standard de code à travers votre équipe. Il est basé sur la configuration de Prettier. qui rassemble les règles de base populaires. Libre à vous de modifier cette configuration via `package.json`.
+ESLint est configuré afin de respecter un certain standard de code à travers votre équipe. Il est basé sur la configuration de Prettier. qui rassemble les règles de base populaires. Libre à vous de modifier cette configuration.
