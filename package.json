@@ -9,7 +9,7 @@
     "test:unit": "vitest",
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
-    "pre-commit": "lint-staged",
+    "pre-commit": "lint-staged --allow-empty",
     "prepare": "husky"
   },
   "dependencies": {
@@ -34,6 +34,9 @@
     "vitest": "^2.1.8"
   },
   "lint-staged": {
-    "**/*.*": "prettier --write src/"
+    "**/*.*": [
+      "eslint --fix",
+      "prettier --write src/"
+    ]
   }
 }
